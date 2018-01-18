@@ -194,7 +194,7 @@ RoofStyle: Type of roof
        Shed	Shed
 		
 RoofMatl: Roof material
-지붕 소새
+지붕 소재
        ClyTile	Clay or Tile
        CompShg	Standard (Composite) Shingle
        Membran	Membrane
@@ -510,6 +510,7 @@ MoSold: Month Sold (MM)
 YrSold: Year Sold (YYYY)
 
 SaleType: Type of sale
+판매타입
 		
        WD 	Warranty Deed - Conventional 
        CWD	Warranty Deed - Cash
@@ -523,7 +524,7 @@ SaleType: Type of sale
        Oth	Other
 		
 SaleCondition: Condition of sale
-
+판태 조건
        Normal	Normal Sale
        Abnorml	Abnormal Sale -  trade, foreclosure, short sale
        AdjLand	Adjoining Land Purchase
