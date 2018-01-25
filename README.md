@@ -7,7 +7,7 @@
 ### 참고 사이트
 
 ##### 구글에서 작성한 기계학습 용어집
-* 원본 : [Google 기계학습 단(영어)][googlelink]
+* 원본 : [Google 기계학습 단어(영어)][googlelink]
 * 번역 : [번역 링크(한국어)][translatelink]
 
 [translatelink]: https://www.codeonweb.com/@mookiekim/ml-glossary?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4
