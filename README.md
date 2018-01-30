@@ -24,6 +24,9 @@
 
 ##### Chart
 * 차트별 데이터 분석 및 사용 방법
+* [Flot 차트 분석 노트](flot.md)
+* [Bar 차트 분석 노트](bar.md)
+* [Scatter 차트 분석 노트](scatter.md)
 
 ##### tensorflow 
 * 딥러닝 학습
@@ -34,21 +37,34 @@
 * tensorflow를 추상화하여 사용이 쉽게 만든 라이브러리
 
 ##### 프로그램 설치 의존도
-* Install.md
+* [설치관련 노트](Install.md)
+
+##### Project
+* [공부에 사용된 Project](Project/Project.md)
+
+##### 공부할 것들 정리
+* [TO-DO](To-Do.md)
+
+##### 라이브러리 정리
+* [Library](Library.md)
+
+##### Util 정리
+* Python Project 중 재사용 가능한 부분을 Python Module로 만들어 정리
+* Project/Util/ 밑에 정리
 
 ##### JAVA 연동 방법
 * Java_Integration.md
 
 ### 쥬피터 노트북 기본적인 단축키
 
-###### p르 누를 경우 단축키 모음
+##### p르 누를 경우 단축키 모음
 
-###### 실행 단축키
+##### 실행 단축키
 * Crtl + Enter 실행 후
 * Shift + Enter 실행 후 다음 라인
 * Alt + Enter 실행 후 라인 삽입
 
-###### 라인 단축키
+##### 라인 단축키
 * dd를 누를 경우 라인 지워짐
 * a위에 라인 추가
 * b밑에 라인 추가
