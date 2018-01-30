@@ -40,7 +40,7 @@
 * [설치관련 노트](Install.md)
 
 ##### Project
-* [공부에 사용된 Project](Project/Project.md)
+* [공부에 사용된 Project](Project/README.md)
 
 ##### 공부할 것들 정리
 * [TO-DO](To-Do.md)
