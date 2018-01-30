@@ -17,10 +17,13 @@
 * https://www.kaggle.com/
 * 다양한 레퍼런스를 참고할 수 있음
 
-### 사용하는 라이브러리
+### 학습 내용
 
 ##### scikit-learn 
 * 지도, 비지도 학습
+
+##### Chart
+* 차트별 데이터 분석 및 사용 방법
 
 ##### tensorflow 
 * 딥러닝 학습
@@ -29,6 +32,12 @@
 
 ##### keras
 * tensorflow를 추상화하여 사용이 쉽게 만든 라이브러리
+
+##### 프로그램 설치 의존도
+* Install.md
+
+##### JAVA 연동 방법
+* Java_Integration.md
 
 ### 쥬피터 노트북 기본적인 단축키
 
