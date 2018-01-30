@@ -1,8 +1,5 @@
 # Project 정리
 
-## Coin
-> 비트코인을 학습하기 위한 프로젝트
-
 ## [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 > 주택의 다양한 특성으로 주택의 가격을 예측
 
@@ -66,3 +63,5 @@
     - 데이터의 양이 많음
     - 큰 데이터를 효율적으로 다루기 위한 노하우 배우기
 
+## Coin
+> 비트코인을 학습하기 위한 프로젝트
