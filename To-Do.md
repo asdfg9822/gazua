@@ -12,3 +12,5 @@
 3. DEVIEW 머신러닝 관련 영상 보기
 
 4. 딥러닝 용어 학습 필요
+
+5. Bag of Word Baseline 노트북 print 되는 부분에 모두 head로 하기 (github에서 너무 길게 보임) 
