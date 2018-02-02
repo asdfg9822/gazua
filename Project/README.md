@@ -27,7 +27,13 @@
 ## [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 > 자연어(텍스트) 처리 튜토리얼
 
-**특징**
+**Tutorial Part 1**
+        
+    - Beautiful Soup을 이용한 HTML 텍스트 제어
+    - Regular Expression(re)을 이용한 텍스트 추출 방법
+    - Natural Language Tookit을 이용한 stopwords 제거 방법
+
+**Tutorial Part 2**
 
     - 학습 필요
     - 가장 핫한 자연어처리 알고리즘 중 하나인 Word2Vec을 다루고 있음
