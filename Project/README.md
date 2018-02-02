@@ -29,9 +29,9 @@
 
 **Tutorial Part 1**
         
-    - Beautiful Soup을 이용한 HTML 텍스트 제어
-    - Regular Expression(re)을 이용한 텍스트 추출 방법
-    - Natural Language Tookit을 이용한 stopwords 제거 방법
+    - Beautiful Soup을 이용한 HTML 텍스트 제어
+    - Regular Expression(re)을 이용한 텍스트 추출 방법
+    - Natural Language Tookit을 이용한 stopwords 제거 방법
 
 **Tutorial Part 2**
 
