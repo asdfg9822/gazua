@@ -23,9 +23,21 @@ Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설�
 #### Natural Language Tookit (NLTK)
 
 오래걸릴 수 있음
-```javascript
+```
 !pip install nltk
 
 import nltk
 nltk.download()
+```
+
+#### Cython
+
+```
+!pip install Cython
+```
+
+#### gensim
+
+```
+!pip install --upgrade gensim
 ```
