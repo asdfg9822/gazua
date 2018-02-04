@@ -16,9 +16,14 @@ Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설�
 
 #### xgboost
 
+
+1) Jupyter를 이용한 설치
 ```
 !pip install xgboost
 ```
+
+2) Anaconda Navigator를 이용한 설치
+Environments에서 libxgboost, py-xgboost를 설치하면 된다.
 
 만약 xgboost가 정상적으로 설치되지 않을 경우
 Anaconda Navigator > Environments에서
