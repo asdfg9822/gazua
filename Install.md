@@ -20,6 +20,12 @@ Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설�
 !pip install xgboost
 ```
 
+만약 xgboost가 정상적으로 설치되지 않을 경우
+Anaconda Navigator > Environments에서
+blaze 를 삭제(clear) 후 xgboost를 설치하니 잘됐음
+
+![xgboost_install_anaconda_navigator](images/install_xgboost_ana_navi.png)
+
 #### Natural Language Tookit (NLTK)
 
 오래걸릴 수 있음
