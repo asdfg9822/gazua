@@ -27,7 +27,10 @@
 ## [Seaborn Tutorial for Beginners](https://www.kaggle.com/jonghyeok/seaborn-tutorial-for-beginners/data)
 > Seaborn 차트 라이브러리 Tutorial
 
-[Tutorial](Seaborn Tutorial for Beginners/tutorial-script-1.ipynb)
+
+Seaborn Tutorial for Beginners
+
+[**Tutorial asd 1**](Seaborn_Tutorial_for_Beginners/tutorial-script-1.ipynb)
 
     - 학습 필요
 
