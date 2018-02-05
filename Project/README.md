@@ -24,6 +24,13 @@
     - 정리 필요
     - Vectorize 학습 (문자열 또는 이미지를 모델에서 사용할 수 데이터로 변환)
 
+## [Seaborn Tutorial for Beginners](https://www.kaggle.com/jonghyeok/seaborn-tutorial-for-beginners/data)
+> Seaborn 차트 라이브러리 Tutorial
+
+[Tutorial](Seaborn Tutorial for Beginners/tutorial-script-1.ipynb)
+
+    - 학습 필요
+
 ## [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 > 자연어(텍스트) 처리 튜토리얼
 
@@ -44,6 +51,7 @@
     - 학습 필요
     - 가장 핫한 자연어처리 알고리즘 중 하나인 Word2Vec을 다루고 있음
     - Tutorial대로 따라가며 학습
+
 
 ## [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance)
 > 검색어를 넣으면 그에 일치하는 상품을 찾아주는 검색엔진 경진대회
