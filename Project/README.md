@@ -45,9 +45,8 @@ Seaborn Tutorial for Beginners
 
 [**Tutorial Part 2**](Bag_of_Words_Meets_Bags_of_Popcorn/tutorial-script-2.ipynb)
 
-    - 학습 필요
     - 가장 핫한 자연어처리 알고리즘 중 하나인 Word2Vec을 다루고 있음
-    - Tutorial대로 따라가며 학습
+    - Word2Vec을 이용하여 단어들 관계를 담고 있는 Word Vector값을 저장 (Tutorial 3에서 사용)
 
 [**Tutorial Part 3**](Bag_of_Words_Meets_Bags_of_Popcorn/tutorial-script-3.ipynb)
 
