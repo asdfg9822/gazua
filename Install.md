@@ -67,6 +67,8 @@ nltk.download()
 
 ### tensorflow
 
+https://github.com/tensorflow/tensorflow/releases
+
 *버전 표시*
 * 1.x.x-alpha (내부 테스트용으로 배포 하는 경우가 많음)
 * 1.x.x-rc (Release Candidate)
