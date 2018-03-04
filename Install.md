@@ -1,20 +1,20 @@
 # 설치 관련 노트
 
-### Anaconda 설치
+## Anaconda 설치
 
 [Anaconda 설치 링크](https://www.anaconda.com/download/) 다운받아서 설치하면 끝 !
 
 ![Anaconda Default Image](images/anaconda_default.jpg)
 
-### Jupyter Notebook 설치
+## Jupyter Notebook 설치
 Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설치 끝
 설치가 완료되면 Launch 버튼이 보이고 실행하면 아래와 같은 화면이 나온다
 
 ![Jupyter Notebook Excute Image](images/jupyter_default.jpg)
 
-### 라이브러리 설치(필요 시)
+## 라이브러리 설치(필요 시)
 
-#### 일반적인 라이브러리 배포 버전
+### 일반적인 라이브러리 배포 버전
 (출처: 위키피디아)
 
 소프트웨어 개발 단계에 따라 분류를 나눌 수 있다. 소프트웨어 배포자에 따라 이 소프트웨어 분류는 바뀔 수 있지만 일반적인 룰은 다음과 같다.
@@ -26,7 +26,7 @@ Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설�
 정식 버전
 
 
-#### xgboost
+### xgboost
 
 
 1) Jupyter를 이용한 설치
@@ -43,7 +43,7 @@ blaze 를 삭제(clear) 후 xgboost를 설치하니 잘됐음
 
 ![xgboost_install_anaconda_navigator](images/install_xgboost_ana_navi.png)
 
-#### Natural Language Tookit (NLTK)
+### Natural Language Tookit (NLTK)
 
 오래걸릴 수 있음
 ```
@@ -65,7 +65,7 @@ nltk.download()
 !pip install --upgrade gensim
 ```
 
-#### tensorflow
+### tensorflow
 
 *버전 표시*
 * 1.x.x-alpha (내부 테스트용으로 배포 하는 경우가 많음)
