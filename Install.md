@@ -52,3 +52,39 @@ nltk.download()
 ```
 !pip install --upgrade gensim
 ```
+
+#### tensorflow
+
+*버전 표시*
+* 1.x.x-alpha (내부 테스트용으로 배포 하는 경우가 많음)
+* 1.x.x-rc (Release Candidate)
+* 1.x.x (Release)
+* Nightly build 매일 발생하는 수정사항 포함. 테스트가 되어 있지 않을 수 있어 불안정한 상태
+
+*Python Package Manager를 이용한 버전 확인*
+```
+# To determine which version you're using:
+!pip show tensorflow
+```
+
+*라이브러리를 이용한 버전 확인*
+```
+import tensorflow as tf
+
+print(tf.__version__)
+```
+
+*버전 install & upgrade*
+```
+# 최신 버전으로
+# For the current version:
+!pip install --upgrade tensorflow
+
+# 특정 버전으로
+# For a specific version:
+!pip install tensorflow==1.2
+
+# nightly build 란
+# For the latest nightly build:
+!pip install tf-nightly
+```
