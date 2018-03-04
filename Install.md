@@ -98,7 +98,7 @@ print(tf.__version__)
 # For a specific version:
 !pip install tensorflow==1.2
 
-# nightly build 란
+# nightly build 버전으로
 # For the latest nightly build:
 !pip install tf-nightly
 ```
