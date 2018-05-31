@@ -10,7 +10,7 @@
 Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설치 끝
 설치가 완료되면 Launch 버튼이 보이고 실행하면 아래와 같은 화면이 나온다.
 
-기본 디렉토리는 c:\Users\user 와 같다. (window일 경우)
+기본 디렉토리는 c:\Users\<username> 와 같다. (window 7/10일 경우)
 
 ![Jupyter Notebook Excute Image](images/jupyter_default.jpg)
 
