@@ -16,7 +16,16 @@ Anaconda Navigator에서 Jupyter notebook의 install 버튼을 눌러주면 설�
 
 ## 라이브러리 설치(필요 시)
 
-### 일반적인 라이브러리 배포 버전
+### (참고) 머신러닝 라이브러리 버전 확인
+
+일반적으로 모듈 import 후 importName.__version__ 으로 버전을 확인할 수 있음
+```
+import tensorflow as tf //tensorflow 라이브러리를 tf라는 이름으로 불러옴
+
+print(tf.__version__) // __version__ 에 버전 정보가 담겨져 있음
+```
+
+### (참고) 일반적인 라이브러리 배포 버전
 (출처: 위키피디아)
 
 소프트웨어 개발 단계에 따라 분류를 나눌 수 있다. 소프트웨어 배포자에 따라 이 소프트웨어 분류는 바뀔 수 있지만 일반적인 룰은 다음과 같다.
