@@ -16,8 +16,11 @@
 
 1. 분산(variance)
 - 데이터가 평균을 기준으로 어느 정도 흐트러져 있는지를 알려주는 지표
+
 > ![](https://latex.codecogs.com/svg.latex?\Large&space;\bar{x}=\frac{x_1+x_2+...+x_3}{n}=\frac{1}{n}(\sum_{i=1}^{n}x_i))
+
 > ![](https://latex.codecogs.com/svg.latex?\Large&space;n\bar{x}=\frac{x_1+x_2+...+x_3}{n}=(\sum_{i=1}^{n}x_i))
+
 > ![](https://latex.codecogs.com/svg.latex?\Large&space;0=\frac{x_1+x_2+...+x_3}{n}=(\sum_{i=1}^{n}x_i)-n\bar{x})
 
 2. 표준편차(standard deviation)
