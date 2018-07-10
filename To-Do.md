@@ -14,4 +14,3 @@
 4. 딥러닝 용어 학습 필요
 
 5. Bag of Word Baseline 노트북 print 되는 부분에 모두 head로 하기 (github에서 너무 길게 보임) 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
