@@ -1,7 +1,7 @@
 ##### 기초 통계량
 
 1. 평균값(Average) : 데이터 모든 합을 데이터의 갯수만큼 나눈 것. 
-- n개의 집합 x가 있다고 가정할 때 ![](https://latex.codecogs.com/svg.latex?\Large&space;x%20=%20\\{x_{1},%20x_{2},%20...,%20x_{n}\\}) 
+- n개의 집합 x가 있다고 할 때 ![](https://latex.codecogs.com/svg.latex?\Large&space;x%20=%20\\{x_{1},%20x_{2},%20...,%20x_{n}\\}) 
 - 데이터 집합 x의 평균은 다음과 같다
 
 > ![](https://latex.codecogs.com/svg.latex?\Large&space;\bar{x}=\frac{x_1+x_2+...+x_3}{n}=\frac{1}{n}(\sum_{i=1}^{n}x_i))
