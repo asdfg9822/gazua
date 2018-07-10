@@ -6,8 +6,19 @@
 
 > ![](https://latex.codecogs.com/svg.latex?\Large&space;\bar{x}=\frac{x_1+x_2+...+x_3}{n}=\frac{1}{n}(\sum_{i=1}^{n}x_i))
 
-2. 중앙값(Median)
-3. 최빈값(Mode)
-4. 최댓값(Maximum)
-5. 최솟값(Minimum)
-6. 범위(Range)
+2. 중앙값(Median) : 데이터를 크기 순으로 정렬했을 때 가운데 위치하는 값
+3. 최빈값(Mode) : 주어진 데이터에서 가장 많이 나오는 값
+4. 최댓값(Maximum) : 데이터 중에서 가장 큰 값
+5. 최솟값(Minimum) : 데이터 중에서 가장 작은 값
+6. 범위(Range) : 최댓값과 최솟값 사이의 범위
+
+##### 분산과 표준편차
+
+1. 분산(variance)
+- 데이터가 평균을 기준으로 어느 정도 흐트러져 있는지를 알려주는 지표
+> ![](https://latex.codecogs.com/svg.latex?\Large&space;\bar{x}=\frac{x_1+x_2+...+x_3}{n}=\frac{1}{n}(\sum_{i=1}^{n}x_i))
+> ![](https://latex.codecogs.com/svg.latex?\Large&space;n\bar{x}=\frac{x_1+x_2+...+x_3}{n}=(\sum_{i=1}^{n}x_i))
+> ![](https://latex.codecogs.com/svg.latex?\Large&space;0=\frac{x_1+x_2+...+x_3}{n}=(\sum_{i=1}^{n}x_i)-n\bar{x})
+
+2. 표준편차(standard deviation)
+- 데이터가 평균을 기준으로 어느 정도 흐트러져 있는지를 알려주는 지표
