@@ -25,7 +25,7 @@
 
 > ![](https://latex.codecogs.com/svg.latex?\Large&space;0={x_1+x_2+...+x_n}-n\bar{x})
 
-> ![](https://latex.codecogs.com/svg.latex?\Large&space;0=(x_1-\bar{x})+(x_2-\bar{x})+...+(x_n-\bar{x}))
+> ![](https://latex.codecogs.com/svg.latex?\Large&space;0=(x_1-\bar{x})+(x_2-\bar{x})+...+(x_n-\bar{x})) 데이터와 평균과의 모든 합은 0
 
 2. 표준편차(standard deviation)
 - 데이터가 평균을 기준으로 어느 정도 흐트러져 있는지를 알려주는 지표
